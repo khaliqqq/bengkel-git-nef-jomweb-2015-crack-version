@@ -1,0 +1,11 @@
+git remote add origin { URL repo di Github - guna HTTPS }
+
+git checkout master
+
+git pull origin master
+
+git add.
+
+git commit -m "for github"
+
+git push origin master
